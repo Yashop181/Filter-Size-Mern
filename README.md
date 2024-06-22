@@ -28,8 +28,9 @@ This project is a simple e-commerce application that allows users to filter prod
 ### Folder Structure
 Briefly describe the folder structure of your project.
 
+# Folder Structure
+
 project-directory/
-│
 ├── backend/
 │   ├── config/
 │   │   └── db.js
@@ -42,7 +43,6 @@ project-directory/
 │   ├── uploads/
 │   ├── .gitignore
 │   └── server.js
-│
 ├── frontend/
 │   ├── public/
 │   │   └── index.html
@@ -58,7 +58,6 @@ project-directory/
 │   │   ├── App.js
 │   │   ├── index.js
 │   │   └── ...
-│
 ├── .gitignore
 ├── package.json
 ├── LICENSE
